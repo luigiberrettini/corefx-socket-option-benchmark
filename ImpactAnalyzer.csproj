@@ -5,6 +5,8 @@
     <RootNamespace>CoreFx.Socket.Option.Benchmark.ImpactAnalyzer</RootNamespace>
     <StartupObject>CoreFx.Socket.Option.Benchmark.ImpactAnalyzer.Program</StartupObject>
     <Configurations>Debug;ReleasePublicCoreFx;ReleaseLocalCoreFxMaster;ReleaseLocalCoreFxKeepAlive</Configurations>
+    <DebugType>full</DebugType>
+    <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="BenchmarkDotNet" Version="0.11.2" />
