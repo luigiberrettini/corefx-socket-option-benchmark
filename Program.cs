@@ -1,4 +1,4 @@
-﻿namespace corefx_socket_option_benchmark
+﻿namespace CoreFx.Socket.Option.Benchmark.ImpactAnalyzer
 {
     class Program
     {
