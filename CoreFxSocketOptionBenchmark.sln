@@ -8,19 +8,13 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
-		ReleasePublicCoreFx|Any CPU = ReleasePublicCoreFx|Any CPU
-		ReleaseLocalCoreFxKeepAlive|Any CPU = ReleaseLocalCoreFxKeepAlive|Any CPU
-		ReleaseLocalCoreFxMaster|Any CPU = ReleaseLocalCoreFxMaster|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FB1F6F0C-1398-4B6E-8C76-525B8D09D180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FB1F6F0C-1398-4B6E-8C76-525B8D09D180}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FB1F6F0C-1398-4B6E-8C76-525B8D09D180}.ReleasePublicCoreFx|Any CPU.ActiveCfg = ReleasePublicCoreFx|Any CPU
-		{FB1F6F0C-1398-4B6E-8C76-525B8D09D180}.ReleasePublicCoreFx|Any CPU.Build.0 = ReleasePublicCoreFx|Any CPU
-		{FB1F6F0C-1398-4B6E-8C76-525B8D09D180}.ReleaseLocalCoreFxKeepAlive|Any CPU.ActiveCfg = ReleaseLocalCoreFxKeepAlive|Any CPU
-		{FB1F6F0C-1398-4B6E-8C76-525B8D09D180}.ReleaseLocalCoreFxKeepAlive|Any CPU.Build.0 = ReleaseLocalCoreFxKeepAlive|Any CPU
-		{FB1F6F0C-1398-4B6E-8C76-525B8D09D180}.ReleaseLocalCoreFxMaster|Any CPU.ActiveCfg = ReleaseLocalCoreFxMaster|Any CPU
-		{FB1F6F0C-1398-4B6E-8C76-525B8D09D180}.ReleaseLocalCoreFxMaster|Any CPU.Build.0 = ReleaseLocalCoreFxMaster|Any CPU
+		{FB1F6F0C-1398-4B6E-8C76-525B8D09D180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1F6F0C-1398-4B6E-8C76-525B8D09D180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
