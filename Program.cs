@@ -1,6 +1,6 @@
 ﻿using BenchmarkDotNet.Running;
 
-namespace CoreFx.Socket.Option.Benchmark.ImpactAnalyzer
+namespace ImpactAnalyzer
 {
     public class Program
     {
